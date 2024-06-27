@@ -1,6 +1,6 @@
 # Spring Boot MySQL CRUD Application with Basic Authentication
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.4-brightgreen)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-brightgreen)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0.25-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
